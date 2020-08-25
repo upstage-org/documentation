@@ -1,0 +1,12 @@
+INSTALLATION DOCUMENTATION
+
+This file is for notes for the Installation documentation.
+
+The Installation documentation should include:
+- everything a server admin needs to know to be able to install the software one a server
+- lists of dependencies, version requirements, etc
+- step-by-step installation process
+- where to find help
+- trouble-shooting common problems
+- tips for maintaining an UpStage server instance
+- what else?
