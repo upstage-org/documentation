@@ -10,3 +10,5 @@ The Installation documentation should include:
 - trouble-shooting common problems
 - tips for maintaining an UpStage server instance
 - what else?
+
+note: an old installation manual exists here: https://github.com/upstage-org/UpStage/wiki/Server-Manual
