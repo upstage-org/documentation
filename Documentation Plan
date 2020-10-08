@@ -1,1 +1,45 @@
 
+
+Introduction
+Project Name:
+Upstage Documentation
+Scope and Objectives
+User instructions
+User interface overview
+Style guide
+
+Publishing Details (formats, ways of delivery to end users)
+We will publish on GitHub and Floss manuals. We will use booktype to publish on user facing documentation on Floss manuals. We will use Python to do so.
+
+Detailed Content Plan
+c. Detail color and font usage. Ideally reflects UI. Turtle green accents. Otherwise black and white. Grey body font color. Sans serrif font.
+For specific elements: Fuscia and yellow orange would create a triad with turtle green. Consult with Elise.
+
+Data Management
+Will use in-house style guide, largely based on UK Microsoft Manual of Style. Where in-house guide does not specify a preference, consult with UK Microsoft Manual of Style.
+Time Estimates
+Ongoing through 2021
+Style guide must be written first. It is only two pages, so it should not take longer than a month to complete, at most.
+Deliverable a. and b. can be written simultaneously.
+Responsible Persons
+Claudia Beezhold - Role: Technical Writer
+Scope of work: Claudia will report to Elise on the interface overview and consult with on style guide.
+Elise: Graphic design and UI developer
+
+
+Workflow
+Reviewed by Paul for technical accuracy and completeness.
+Final review and approval by Helen and Vicki.
+Resources (software, style guides, websites)
+https://www.w3schools.in/technical-writing/documentation-development-life-cycle-ddlc/
+
+https://raygun.com/blog/software-development-life-cycle/
+
+
+https://www.w3schools.in/technical-writing/documentation-development-life-cycle-ddlc/
+
+https://clickhelp.com/clickhelp-technical-writing-blog/how-to-write-user-documentation-and-help-manuals/
+
+
+-------
+
