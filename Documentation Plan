@@ -1,10 +1,9 @@
 
-
 Introduction
 Project Name:
 Upstage Documentation
 Scope and Objectives
-User instructions
+User instructions, for developers and users
 User interface overview
 Style guide
 
@@ -12,24 +11,29 @@ Publishing Details (formats, ways of delivery to end users)
 We will publish on GitHub and Floss manuals. We will use booktype to publish on user facing documentation on Floss manuals. We will use Python to do so.
 
 Detailed Content Plan
-c. Detail color and font usage. Ideally reflects UI. Turtle green accents. Otherwise black and white. Grey body font color. Sans serrif font.
-For specific elements: fuchsia and yellow orange would create a triad with turtle green? Consult with Elisa.
+c. Detail color and font usage. Ideally reflects UI. Turtle green accents. Otherwise black and white. Grey body font color. Sans serif font.
+For specific elements: Fuschia and yellow orange would create a triad with turtle green. Consult with Elisa.
 
 Data Management
-Will use in-house style guide, largely based on UK Microsoft Manual of Style. Where in-house guide does not specify a preference, consult with UK Microsoft Manual of Style.
+Will use an in-house style guide, largely based on UK Microsoft Manual of Style. Where the in-house guide does not specify a preference, consult with UK Microsoft Manual of Style.
 Time Estimates
 Ongoing through 2021
-Style guide must be written first. It is only two pages to start, so it should not take longer than a month to complete, at most.
+The style guide must be written first. It is only two pages, so it should not take longer than a month to complete, at most.
 Deliverable a. and b. can be written simultaneously.
+The software development lifecycle (SDLC) is a never ending process, and the documentation will always need to be updated to accurately reflect the latest version of the software. However, we can plan our documentation in terms of a single SDLC and synch our documentation with various steps of the SDLC:
+ 
+During the planning stage, requirements will be determined by stakeholders and SMEs, so we would work in tandem to create rough outlines or drafts of our user documents that parallel those requirements. 
+Testing would be a time of revision to reflect changes made based on user feedback. Therefore, the major segments of the documentation should be completed before we get to that step. We should be documenting whatever feature is being built during each sprint; in between sprints, we should be proofreading, making minor revisions to optimize reader experience, and looking ahead to anticipate the required information. 
+During the operations and maintenance stage, we will maintain the documentation to keep it accurately reflecting the software, documenting any new features that may be added or bugs that have been fixed.
 Responsible Persons
 Claudia Beezhold - Role: Technical Writer
-Scope of work: Claudia will report to Elisa on the interface overview and work with on style guide.
+Scope of work: Claudia will report to Elisa on the interface overview and consult with on style guide.
 Elisa Godoy de Castro Guerra: Graphic design and UI developer
 
 
 Workflow
 Reviewed by Paul for technical accuracy and completeness.
-Final review and approval by Helen and Vicki.
+Final approval by Helen and Vicki.
 Resources (software, style guides, websites)
 https://www.w3schools.in/technical-writing/documentation-development-life-cycle-ddlc/
 
