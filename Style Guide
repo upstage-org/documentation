@@ -1,10 +1,13 @@
 Upstage Style Guide
 Goals
-Our goals are clarity, accessibility, concision, and consistancy. To achieve these goals, we follow the principles of the plain English movement. We also like to be a little different here at Upstage--as a company based in New Zealand, we use standard New Zealand English (NZE). If we do not specify a preference on a certain point, defer to NZE or British English (BrE) standards. We will update this style guide regularly to reflect our voice and brand, as well as to refine and expand our specifications.
-
+Our goals are clarity, accessibility, concision, and consistency. To achieve these goals, we follow the principles of the Plain English movement. We also like to be a little different here at Upstage--as a company based in New Zealand, we use standard New Zealand English (NZE). If we do not specify a preference on a certain point, defer to NZE or British English (BrE) standards. We will update this style guide regularly to reflect our voice and brand, as well as to refine and expand our specifications.
 Brand Voice
 Upstage is a platform for artists, so our voice is ____.
 
+Examples
+
+
+Language Usage Standards
 Plain English Principles
 Avoid nominalizations.
 Avoid “to be” verbs
@@ -18,10 +21,16 @@ When in doubt, use the more common word.
 Use short paragraphs 
 Use bullet point lists whenever appropriate
 Use numbered lists when describing steps
-
 Spelling conventions
-Colour, not color
+Colour, not color. Same with all words where -our ending is an option.
 -ise preferred to -ize. As in centralise, not centralize
+-t spelling of past tense verbs and past tense participles is preferred, rather than -ed
+British spelling preferred.
+
+Abbreviations
+No period after abbreviations or
+Acronyms
+
 
 Other
 When introducing new terminology, bold the new words.
@@ -30,5 +39,14 @@ Upon the first use of an abbreviation, spell it out and include the abbreviated 
 Try to avoid overly complicated sentence structures
 Strive for SVO. Frontload the subject. 
 
+Regional Differences
+Accessibility
+
+Software Specific Concerns
+
 
 Word Bank
+We use parent/child instead of master/slave. 
+Two elements with the same parent are siblings.
+Instead of white/blacklist, we use 
+URLs
