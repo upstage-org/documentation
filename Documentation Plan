@@ -1,9 +1,10 @@
 
+
 Introduction
 Project Name:
-Upstage Documentation
+Upstage Documentation Project
 Scope and Objectives
-User instructions, for developers and users
+User instructions, one for developers and one for users. We will have different versions for knowledge level and language.
 User interface overview
 Style guide
 
@@ -12,18 +13,28 @@ We will publish on GitHub and Floss manuals. We will use booktype to publish on 
 
 Detailed Content Plan
 c. Detail color and font usage. Ideally reflects UI. Turtle green accents. Otherwise black and white. Grey body font color. Sans serif font.
-For specific elements: Fuschia and yellow orange would create a triad with turtle green. Consult with Elisa.
+For specific elements: Fuschia #FF00FF and yellow orange #ffae42 would create a triad with turtle green. Consult with Elisa.
+
+Requirement analysis (We are here. Will be complete when this document is complete)
+Phase of Designing (We are transitioning to this by starting the style guide)
+Content Development Stage Jan 1st?
+Editing/Proofreading
+Maintenance
+
 
 Data Management
 Will use an in-house style guide, largely based on UK Microsoft Manual of Style. Where the in-house guide does not specify a preference, consult with UK Microsoft Manual of Style.
+
 Time Estimates
 Ongoing through 2021
 The style guide must be written first. It is only two pages, so it should not take longer than a month to complete, at most.
 Deliverable a. and b. can be written simultaneously.
-The software development lifecycle (SDLC) is a never ending process, and the documentation will always need to be updated to accurately reflect the latest version of the software. However, we can plan our documentation in terms of a single SDLC and synch our documentation with various steps of the SDLC:
+The documentation plan process is called the DDLC. It is closely related to the steps involved in the SDLC (Software development life cycle), and organized around that process. The software development lifecycle (SDLC) is a never ending process, and the documentation will always need to be updated to accurately reflect the latest version of the software. Therefore, it is important for the two to remain synchronized. However, we can plan our documentation in terms of a single DDLC and synch our documentation with various steps of the SDLC:
  
-During the planning stage, requirements will be determined by stakeholders and SMEs, so we would work in tandem to create rough outlines or drafts of our user documents that parallel those requirements. 
-Testing would be a time of revision to reflect changes made based on user feedback. Therefore, the major segments of the documentation should be completed before we get to that step. We should be documenting whatever feature is being built during each sprint; in between sprints, we should be proofreading, making minor revisions to optimize reader experience, and looking ahead to anticipate the required information. 
+During the planning stage, requirements will be determined by stakeholders and SMEs, so we would work in tandem to create rough outlines or drafts of our user documents that parallel those requirements. Audience analysis is essential. Might want to take user feedback and create a profile of our typical user(s), including their knowledge and needs.
+We should be documenting whatever feature is being built during each sprint; in between sprints, we should be proofreading and editing, making minor revisions to optimize reader experience, and looking ahead to anticipate the required information. 
+Testing would be a time of revision to reflect changes made based on user feedback. Therefore, the major segments of the documentation should be completed before we get to that step. 
+Publishing.
 During the operations and maintenance stage, we will maintain the documentation to keep it accurately reflecting the software, documenting any new features that may be added or bugs that have been fixed.
 Responsible Persons
 Claudia Beezhold - Role: Technical Writer
