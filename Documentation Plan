@@ -26,13 +26,15 @@ Data Management
 Will use an in-house style guide, largely based on UK Microsoft Manual of Style. Where the in-house guide does not specify a preference, consult with UK Microsoft Manual of Style.
 
 Time Estimates
-Ongoing through 2021
+
+Overall project is ongoing through 2021.
+
 The style guide must be written first. It is only two pages, so it should not take longer than a month to complete, at most.
 Deliverable a. and b. can be written simultaneously.
 The documentation plan process is called the DDLC. It is closely related to the steps involved in the SDLC (Software development life cycle), and organized around that process. The software development lifecycle (SDLC) is a never ending process, and the documentation will always need to be updated to accurately reflect the latest version of the software. Therefore, it is important for the two to remain synchronized. However, we can plan our documentation in terms of a single DDLC and synch our documentation with various steps of the SDLC:
  
-During the planning stage, requirements will be determined by stakeholders and SMEs, so we would work in tandem to create rough outlines or drafts of our user documents that parallel those requirements. Audience analysis is essential. Might want to take user feedback and create a profile of our typical user(s), including their knowledge and needs.
-We should be documenting whatever feature is being built during each sprint; in between sprints, we should be proofreading and editing, making minor revisions to optimize reader experience, and looking ahead to anticipate the required information. 
+During the planning stage, requirements will be determined by stakeholders and SMEs, so we would work in tandem to create rough outlines or drafts of our user documents that parallel those requirements. Audience analysis is essential. Might want to take user feedback and create a profile of our typical user(s), including their knowledge and needs. Should be complete by New Year's Eve.
+We should start on the documentation no later than January 1st 2021. We should be documenting whatever feature is being built during each sprint; in between sprints, we should be proofreading and editing, making minor revisions to optimize reader experience, and looking ahead to anticipate the required information. 
 Testing would be a time of revision to reflect changes made based on user feedback. Therefore, the major segments of the documentation should be completed before we get to that step. 
 Publishing.
 During the operations and maintenance stage, we will maintain the documentation to keep it accurately reflecting the software, documenting any new features that may be added or bugs that have been fixed.
