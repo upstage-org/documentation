@@ -1,16 +1,31 @@
 Upstage Style Guide
+
+TOC:
 Goals
-Our goals are clarity, accessibility, 
-concision, and consistency. 
-To achieve these goals, we follow the principles of the Plain English movement. 
-We also like to be a little different here at Upstage--as a company based in New Zealand,
-we use standard New Zealand English (NZE). 
-If we do not specify a preference on a certain point,
-defer to NZE or British English (BrE) standards. 
-We will update this style guide regularly to reflect our voice and brand,
-as well as to refine and expand our specifications.
 Brand Voice
-Upstage is a platform for artists, so our voice is informal, friendly, inclusive.
+Examples
+Language Usage Standards
+Plain English Principles
+Spelling conventions
+Other
+Regional Differences
+Accessibility
+Software Specific Concerns
+Word Bank
+URLs
+
+Goals
+Our goals are clarity, accessibility, concision, and consistency. To achieve these goals, we follow the principles of the Plain English movement. We also like to be a little different here at Upstage--as this project was born in Aotearoa New Zealand, we use standard New Zealand English (NZE). If we do not specify a preference on a certain point, defer to NZE or British English (BrE) standards. We will update this style guide regularly to reflect our voice and brand, as well as to refine and expand our specifications.
+
+Brand Voice
+Upstage is an experimental, artist-led and open source platform. Our voice is:
+Friendly - When you write, do it as if you were explaining something to a friend.
+Open - We aim to be inviting to our users and developers
+Direct - We get to the point and avoid circumlocation.
+
+In Practice
+- Word Choice
+- Phrases to avoid
 
 Examples
 
@@ -23,9 +38,7 @@ Avoid unnecessary prepositions or unnecessarily lengthy prepositional phrases
 Use active voice
 When possible, use “power” words that encapsulate an idea rather than using lengthy phrases
 When in doubt, use the more common word.
-
-
-
+Avoid ambiguity
 Use short paragraphs 
 Use bullet point lists whenever appropriate
 Use numbered lists when describing steps
@@ -42,17 +55,51 @@ Acronyms
 
 Other
 When introducing new terminology, bold the new words.
-Header titles should be capitalized 
-except for prepositions and articles
-Upon the first use of an abbreviation, 
-spell it out 
-and include the abbreviated form
-Try to avoid overly complicated sentence
- structures
+Header titles should be capitalized except for prepositions and articles
+Upon the first use of an abbreviation, spell it out and include the abbreviated form
+Try to avoid overly complicated sentence structures
 Strive for SVO. Frontload the subject. 
 
 Regional Differences
+Foreign language users
+https://www.microsoft.com/en-us/language/styleguides
 Accessibility
+https://www.w3.org/TR/WCAG21/
+
+According to W3 guidelines, we should strive for the following qualities in our documentation:
+Percievable
+Specifications for how to accomodate different disabilities:
+Vision: We need a description that is accessable to sceen reader software. Accessability metadata. Image alt. The computer will read this information out loud to describe an image.
+Audio: Videos should have subtitles.
+Motor:
+Seizures: No quickly flashing images in videos or gifs.
+Adaptable
+It should be flexible enough to be read easily on different devices.
+Distinguishable: Addresses the following to ensure content is discernable in general.
+Color
+Audio
+Contrast
+Resize text
+Images of text
+Low or No Background Audio
+Visual Presentation
+Images of Text (No Exception)
+Reflow
+Non-text Contrast
+Text Spacing
+Content on Hover or Focus
+Operable: Pertaining to user interface and navigation
+Keyboard Accessible
+Sufficient time
+Seizures and Physical Reactions
+Navigable
+Input modalities
+Understandable
+Readable
+Predictable
+Input Assistance
+Robust
+Conformance
 
 Software Specific Concerns
 
@@ -61,5 +108,34 @@ Word Bank
 We use parent/child instead of master/slave. 
 Two elements with the same parent are siblings.
 Instead of white/blacklist, we use 
-
+Dashboard: The space where the stages can be created and managed (The administrative interface)
+We create and manage stages
+We manage player profile, and admins can add and manage players
+other top level administration e.g. access statistics
+Stage: The space where the live Cyberformance is created and happens
+Live stage: rehearsal and presentation of cyberformance. The live stage can be public (Unlocked: Public performance) or private (Locked: Rehearsal).
+Workshop: The backstage of the stage, it can be considered as the offline stage where artists can upload media and pre-prepare scenes and the elements that are needed for their cyberformance. It will serve as the media management of a performance.
 URLs
+The text of links should give readers a clear idea of what they lead to and the purpose.
+
+Formatting and Navigation
+Titles of pages should clearly describe the purpose or topic
+Headings and labels
+ should clearly define the purpose of the section.
+
+Lists
+Numbered lists should always be used for processes broken down into steps. Sub-sections can be labeled with lower-case letters.
+Otherwise, use bullet point lists.
+
+Tables
+Tables should be clearly labeled.
+
+Figures
+
+Images
+
+Navigation
+
+“Breadcrumb trails” of links should be available for backtracking across pages.
+
+
