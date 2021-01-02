@@ -11,3 +11,27 @@ The User Manual should include:
 - where to find help and more information
 - glossary of terms
 - what else?
+-------------
+-Table of Contents
+-Introduction
+--Purpose
+This manual aims to acquaint beginner users with no knowledge of __ with the installation, setup, and basic use of Upstage
+--Audience
+We designed this manual for readers with little to no prior experience in____. We assume ___
+--Scope
+In Upstage Beginner User Manual, we cover installation, setup, and 
+---What we cover
+* Using the main Upstage instance
+* Setting up your own server
+*Finding further help
+---What We Do Not Cover
+
+-Getting Started
+-Interface
+-Features
+-Setting
+-Troubleshooting
+-FAQ
+-More Help
+-Glossary
+
