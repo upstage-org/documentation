@@ -15,7 +15,7 @@ The User Manual should include:
 -Table of Contents
 -Introduction
 --Purpose
-This manual aims to acquaint beginner users with no knowledge of __ with the installation, setup, and basic use of Upstage
+This manual aims to acquaint beginner users with no knowledge of __ with the setup and basic usage of Upstage, as well as guidance in setting up your own server.
 --Audience
 We designed this manual for readers with little to no prior experience in____. We assume ___
 --Scope
@@ -27,6 +27,8 @@ In Upstage Beginner User Manual, we cover installation, setup, and
 ---What We Do Not Cover
 
 -Getting Started
+-- Configuring 
+--
 -Interface
 -Features
 -Setting
